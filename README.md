@@ -20,6 +20,14 @@
 
 # **Data Visualization**
 
+* **Countries with active cases**
+
+  ![newplot](https://github.com/vekasheni/Covid-19/assets/146317452/ea97871f-4500-4659-bf1a-b07871707672)
+
+* **Countries with recovered cases**
+
+   ![newplot (1)](https://github.com/vekasheni/Covid-19/assets/146317452/35e225ee-e7df-4016-ba96-0fe55b21a87d)
+
 * **Worldwide confirmed cases over time**
 
  ![image](https://github.com/vekasheni/Covid-19/assets/146317452/60d36e2a-fb62-4212-99df-d0a5f788d233)
