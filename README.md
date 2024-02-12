@@ -38,7 +38,38 @@
 
 * **Confirmed cases overtime in different countries**
 
+* Green - Russia
+* Red - India
+* Black - UK
+* Orange - US
+* Blue - Brazil
+
  ![image](https://github.com/vekasheni/Covid-19/assets/146317452/653e4c7e-c19c-41a0-8810-98241e628fb4)
+
+* **Death cases overtime in different countries**
+
+* Green - Russia
+* Red - India
+* Black - UK
+* Orange - US
+* Blue - Brazil
+
+ ![image](https://github.com/vekasheni/Covid-19/assets/146317452/d1a8f65a-1678-4aed-b4b8-03bf06652cb0)
+
+ * **Recovered cases overtime in different countries**
+
+* Green - Russia
+* Red - India
+* Black - UK
+* Orange - US
+* Blue - Brazil
+
+![image](https://github.com/vekasheni/Covid-19/assets/146317452/9198525c-974b-44ba-94df-d50b97f2a0b9)
+
+
+
+
+  
 
 
 
