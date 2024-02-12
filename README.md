@@ -1,5 +1,7 @@
 # Covid-19 Analysis
 
+** If some of the visualization part are not displayed here in github ipynb file, then please use the Google colab tab provided at the beginning of the file for better visualizations. **
+
 # **1.Importing Libraries**
 
   * Numpy
